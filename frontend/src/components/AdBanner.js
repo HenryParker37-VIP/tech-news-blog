@@ -33,7 +33,7 @@ function AdBanner({ slot = '', format = 'auto', style = {} }) {
       ref={adRef}
       className="adsbygoogle"
       style={{ display: 'block', ...style }}
-      data-ad-client={process.env.REACT_APP_ADSENSE_CLIENT || ''}
+      data-ad-client="ca-pub-3342068807259087"
       data-ad-slot={slot}
       data-ad-format={format}
       data-full-width-responsive="true"
