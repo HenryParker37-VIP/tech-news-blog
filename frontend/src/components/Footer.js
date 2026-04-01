@@ -25,7 +25,7 @@ function Footer() {
                               href="mailto:numberisno1@gmail.com"
                 className="text-blue-400 hover:text-blue-300 underline transition-colors"
               >
-                                Contact me at numberisno1@gmail.com
+                                Contact me at henryparker0307@gmail.com
                   </a>
                   </p>
                   </div>
